@@ -1,6 +1,5 @@
 # predictingTemperature
-- Team Project
-  Julia, Owen and Takumi
+- Team Project ( Julia, Owen and Takumi )
 
 
 # Code
